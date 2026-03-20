@@ -1,0 +1,15 @@
+# Виртуальное окружение
+.venv/
+
+# Папки кеша Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code (если используешь)
+.vscode/
+
+# .CSV файлы
+*.csv 
